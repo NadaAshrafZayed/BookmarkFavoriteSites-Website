@@ -1,0 +1,28 @@
+h1{
+    font-weight: bold;
+    color: gray;
+    margin: 60px;
+}
+.wholeForm{
+    background-color: rgb(128, 128, 128 ,0.2);
+    width: 70%;
+}
+.title{
+    font-size: 28px;
+    font-weight: bold;
+}
+button{
+    color: white;
+    background-color: #2C74B3;
+    border: 2px solid #2C74B3;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 14px;
+}
+.copyright{
+    color: gray;
+    margin-left: 40px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
